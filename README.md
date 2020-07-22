@@ -1,1 +1,1 @@
-Hello, Git!
+Image ELECTRA
